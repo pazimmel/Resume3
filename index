@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="stylesheet" type="text/css" href="stylesheet.css">
+    
+  </head>
+
+  <body>
+    <img src="https://lh3.googleusercontent.com/-qZBDIzO9xqU/VQdtU_VHqGI/AAAAAAAAAmo/CcYdIYtqURo/w166-h263-no/face-cropped.jpg" alt="my pic" div class="pic">
+   <div class="header">
+    <div class="Name">
+  		<h1>Paul Zimmel</h1>
+  	<div class="contact-info">
+  		<p>2535 Grand Ave S Minneapolis MN 55405</p>
+  		<p>651-890-6678</p>
+      <p>pazimmel@gmail.com</p>
+  	</div>
+  	<div class="personal-statement">
+  		<p>I’m a motivated, resourceful educator looking to make a career change. I feel my analytical mind and ability to solve problems form an important foundation for any developer. Along with these, my flexibility and excellent communication skills would make me a strong candidate for Prime Academy.</p>
+  	</div>
+   </div>
+      
+  	<div class="work-experience">	
+  			<h2>Work Experience</h2>
+          <div class="trinity">
+  				 <h3>Trinity School at River Ridge</h3>
+  			    <h4>Teacher <span>Eagan, MN 2006 - present</span></h4>
+  					 <p>Current Courses: Pre-Calculus A, Pre-Calculus C, German I, Humane Letters 9</p>
+  					 <p>Past Courses: World Issues, Calculus I and II, Pre-Calculus A and B and C, Geometry, Humane Letters 9, Algebra, Earth Science, Medieval History, Literature and Composition I, Ancient History<p>
+  					<h4>Facebook Page Administrator <span>2012 - present</span></h4>
+              <p>Update and manage Trinity's Facebook Page</p>
+            <h4>Coach<span>2006 - present<span></h4>
+  					 <p>Head coach JV Boys Soccer 2008 - present</p>
+  					 <p>Assistant coach Varsity Boys Soccer 2007</p>
+  					 <p>Assistant coach JV Boys Soccer 2006</p>
+          </div>
+          <div class="sting">
+  				 <h3>Sting Soccer Club</h3>
+  			    <h4>Coach <span>West St. Paul, MN 2011 - 2012</span></h4>
+  			  	 <p>Head Coach U17 Girls C2 2012</p>
+  			  	 <p>Head Coach U16 Girls C2 2011</p>
+          </div>
+          <div class="stockerau">
+  				 <h3>BG/BRG Stockerau Austria</h3>
+  			    <h4>Bilingual Teacher <span>Stockerau, Austria 2005 - 2006</span></h4>
+  			  	 <p>Responsible for presenting material in the subjects of History, Biology, Music, Religion and Geography in English to students in the Bilingual Program</p>
+  			  	 <p>Assist the English teachers in the classroom</p>
+          </div>
+    </div>
+    <div class="awards">
+  		<h2>Awards</h2>
+  			<h3>Fulbright Teaching Assistant</h3>
+          <h4>English Teaching Assistant <span>Sankt Polten, Austria 2003 - 2005</span></h4>
+  				 <p>Work as an English language teaching assistant in Austrian high schools</p>
+  	</div>
+    <div class="education">
+      <h2>Education</h2>
+        <h3>St. John's University</h3>
+          <h4>Bachelor of Liberal Arts <span>Collegeville, MN 1999 - 2003</span></h4>
+          <p>Major: English</p>
+    </div>
+  	</div>
+
+
+  </body>
+</html>
